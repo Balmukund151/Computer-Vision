@@ -8,5 +8,3 @@ I guess results are pretty good but has the potential to improve further if trai
 
 # Results
 <img width="1200" height="900" alt="ProGAN-Generated" src="https://github.com/user-attachments/assets/767e0059-7bb4-4d1a-baba-56547dee8186" />
-
-Pretrained Weights
