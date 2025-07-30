@@ -6,6 +6,6 @@ LR image(24*24) is then passed through SRGAN implementation to obtain Super Reso
 
 Results are comparable
 
-LR Image
-HR Image
-SR Image 
+LR Image [!https://github.com/Balmukund151/Computer-Vision/blob/main/SRGAN/Generated-Images/Low%20Resolution-Downscaled-by-factor-of-4-1.png]
+HR Image [!https://github.com/Balmukund151/Computer-Vision/blob/main/SRGAN/Generated-Images/High%20Resolution-Input-1.png]
+SR Image [!https://github.com/Balmukund151/Computer-Vision/blob/main/SRGAN/Generated-Images/Super%20Resolution-Generated-1.png]
