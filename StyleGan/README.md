@@ -1,1 +1,6 @@
-
+- StyleGan is am inplemetation of the paper https://arxiv.org/pdf/1812.04948
+- I have tried to replicate as close as possible.
+- Training has been done on CELEBA HQ dataset
+- Training has been done till image size 256 as without high end GPU it would take days to train if we go for 1024 size
+- Observation
+- 
