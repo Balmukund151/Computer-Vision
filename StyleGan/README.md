@@ -2,7 +2,7 @@
 - I have tried to replicate as close as possible.
 - Training has been done on CELEBA HQ dataset
 - Training has been done till image size 256 as without high end GPU it would take days to train if we go for 1024 size
-- Observation
+- Weights can be found at: https://github.com/Balmukund151/Computer-Vision/releases/tag/Computer-Vision-Weights-Tag
 - Sample of generated images are below
 
 
