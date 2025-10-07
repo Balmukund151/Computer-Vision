@@ -3,6 +3,7 @@
 - From High Resolution Image, patches of size 96 * 96 has been centre cropped and used as High Resolution Image(HR).
 - HR image(96*96) has been downscaled by factor of 4 to obtain Low Resolution image(LR).
 - LR image(24*24) is then passed through SRGAN implementation to obtain Super Resolution(SR) image.
+- Weights can be found at: https://github.com/Balmukund151/Computer-Vision/releases/tag/Computer-Vision-Weights-Tag
 
 - Results are comparable
 
